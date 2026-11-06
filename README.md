@@ -1,13 +1,12 @@
 <h1 style="font-size: 48px;">Hi There👋</h1>
 
-**I'm Raihan Alvian** - I'm a Full-Stack Developer
+Web Developer
+ 
 
-<!-- ![Differentlv](img/bg-none.png) -->
 
+#### Tech
 
-#### Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,cpp,php,react,tailwindcss,laravel,mysql,godot,cs,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 #### OS
 
